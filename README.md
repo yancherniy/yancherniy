@@ -17,8 +17,6 @@ This GitHub is where I document my blue team learning journey, including labs, l
 
 ## 🧪 Projects
 - `splunk-detection-lab` – A local lab simulating and detecting attacks with Splunk
-- `log-analysis-playbooks` – Markdown-style playbooks and blue team workflows
-- `tryhackme-blue-team` – Notes and lab progress from blue team learning paths
 
 ---
 
